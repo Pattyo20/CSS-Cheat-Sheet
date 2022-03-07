@@ -1,0 +1,32 @@
+table {
+    margin: 0 auto; 
+    border-collapse: 
+    collapse; width: 50%
+}
+table, th, td {
+    border: 3px solid tan;
+}
+th {
+    height: 50px; 
+    text-align: center; 
+    background-color: grey; 
+    color: white; 
+    text-transform: uppercase; 
+    font-family: Helvetica; 
+    font-size: 14px;
+    font-style: italic;
+}
+html {
+    background-color:darkslateblue;
+}
+td {
+    color: white;
+}
+h1, h2 {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 5px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
